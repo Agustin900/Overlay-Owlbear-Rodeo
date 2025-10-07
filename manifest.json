@@ -5,9 +5,10 @@
   "action": {
     "title": "Overlay de Peligro",
     "icon": "https://www.pngall.com/wp-content/uploads/15/Demon-Eyes-PNG-Cutout.png",
-    "popover": "index.html",
+    "popover": "/",
     "height": 600,
     "width": 400
   }
 }
+
 
