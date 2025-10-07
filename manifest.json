@@ -1,7 +1,12 @@
 {
   "name": "Overlay de Peligro",
   "version": "1.0.0",
-  "description": "Bordes rojos parpadeantes tipo respiración para indicar peligro.",
-  "entry": "https://tu-usuario.github.io/overlay-peligro/index.html",
-  "permissions": []
+  "manifest_version": 1,
+  "action": {
+    "title": "Overlay de Peligro",
+    "icon": "https://www.pngall.com/wp-content/uploads/15/Demon-Eyes-PNG-Cutout.png",
+    "popover": "/index.html",
+    "height": 600,
+    "width": 400
+  }
 }
